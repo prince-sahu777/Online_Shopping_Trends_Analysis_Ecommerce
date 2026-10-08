@@ -1,0 +1,44 @@
+ONLINE SHOPPING TRENDS ANALYSIS
+Project Report
+
+1. INTRODUCTION
+Online shopping generates large amounts of information about products, prices, ratings and purchases. Analyzing this information helps us understand customer preferences and product performance. This project uses Python to perform a beginner-level analysis of online shopping trends.
+
+2. PROBLEM STATEMENT
+To analyze online shopping data based on product prices, ratings, categories and purchases and identify useful shopping trends.
+
+3. OBJECTIVES
+- Analyze product prices.
+- Calculate average product ratings.
+- Identify the most purchased products.
+- Compare product categories.
+- Find highly rated products.
+- Perform numerical analysis using NumPy.
+- Create meaningful visualizations using Matplotlib.
+
+4. TECHNOLOGIES USED
+Python, NumPy, Matplotlib and CSV file handling.
+
+5. DATASET
+The dataset contains 20 sample online shopping products. Each record contains Product ID, Product Name, Category, Price, Rating and Purchases.
+
+6. METHODOLOGY
+The CSV file is loaded using Python's csv module. The data is stored as a list of dictionaries. Functions are used to calculate averages and identify important products. NumPy arrays are used for numerical and statistical operations. Matplotlib is used to create charts.
+
+7. PYTHON CONCEPTS USED
+The project demonstrates variables, data types, lists, dictionaries, sets, loops, conditional statements, functions, list comprehension, lambda, map(), filter(), reduce(), classes and inheritance.
+
+8. DATA ANALYSIS
+The project calculates average price, average rating and total purchases. It also identifies the most purchased, highest-rated and most expensive products. Category-wise purchases are calculated to determine the most popular category.
+
+9. VISUALIZATION
+Six graphs are generated: purchases by category, price versus rating, rating distribution, purchase distribution by category, price distribution and top five purchased products.
+
+10. RESULTS
+The analysis shows which products and categories have stronger purchase performance. It also allows comparison between price and rating. The charts make the shopping trends easier to understand.
+
+11. CONCLUSION
+The project demonstrates that Python can be used to organize, analyze and visualize shopping data. Basic Python concepts together with NumPy and Matplotlib are sufficient to perform useful beginner-level data analytics.
+
+12. FUTURE SCOPE
+The project can later be extended using Pandas, larger real-world datasets, customer segmentation, recommendation systems and predictive analytics.

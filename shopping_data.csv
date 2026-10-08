@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Price,Rating,Purchases
+101,Wireless Mouse,Electronics,799,4.5,1250
+102,Keyboard,Electronics,1299,4.3,980
+103,Water Bottle,Home,499,4.6,1500
+104,Running Shoes,Fashion,2499,4.2,875
+105,Backpack,Fashion,1599,4.4,1120
+106,Headphones,Electronics,1999,4.7,2100
+107,Coffee Maker,Home,3499,4.1,650
+108,T-Shirt,Fashion,699,4.0,1800
+109,Smart Watch,Electronics,3999,4.6,1950
+110,Desk Lamp,Home,899,4.3,920
+111,Jeans,Fashion,1799,4.2,1350
+112,Bluetooth Speaker,Electronics,2499,4.5,1650
+113,Power Bank,Electronics,1499,4.4,1720
+114,Wall Clock,Home,799,4.0,780
+115,Jacket,Fashion,2899,4.5,910
+116,Tablet Stand,Electronics,999,4.3,1180
+117,Air Fryer,Home,4299,4.6,720
+118,Sunglasses,Fashion,899,4.1,1430
+119,USB Cable,Electronics,399,4.2,2200
+120,Cushion Set,Home,699,4.4,1050
